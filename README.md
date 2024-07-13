@@ -1,2 +1,5 @@
 # Expense-Account
-this project is ued for out BIT group(kathmandu University
+<br>
+this project is ued for out BIT group
+<br>
+(kathmandu University
